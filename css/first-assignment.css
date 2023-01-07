@@ -1,0 +1,197 @@
+* {
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.section-container {
+    width: 1140px;}
+
+
+ a {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+.btn-primary {
+    padding: 21px 26px;
+    border: 0;
+    border-radius: 5px;
+    margin-top: 30px;
+    background-color: orangered;
+}
+
+/* banner styls */
+.banner {
+    background-image: url(../images/banner/banner2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.banner-text {
+    padding: 100px 0;
+}
+
+.banner-title {
+    font-weight: 700;
+    font-size: 55px;
+    text-align: right;
+    color: #151414;
+    margin-bottom: 20px;
+
+}
+
+.banner-discription {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 26px;
+    text-align: right;
+    color: #444343;
+
+}
+
+.banner-item .button {
+    display: flex;
+    justify-content: end;
+}
+/* my-failures styls */
+.my-failures .my-failures-block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    margin-top: 100px;
+}
+
+.my-failures-text {
+    margin-top: 120px;
+}
+
+.section-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+
+.my-failures-discription {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin: 20px 0;
+}
+
+.my-failures-discription-list {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-bottom: 12px;
+}
+
+.my-failures-discription-list i {
+    color: green;
+}
+
+/* my experience styls */
+
+/* My Plans styls */
+.my-plans{
+margin-top: 100px;
+}
+.my-plans .section-title{
+ text-align: center;
+ margin-bottom: 50px;
+  }
+  .my-plans-item{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+
+  }
+  .item{
+    text-align: center;
+  }
+  .my-plans-item-title{
+ font-weight: 700;
+font-size: 30px;
+color: #151414;
+margin: 20px 0;
+  }
+
+.my-plans-item-discription{
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}  
+ /* Awlays keep styls */
+ .awlays-keep{
+   background:url(../images/watch.png),linear-gradient(90deg, rgba(255, 55, 0, 0.529) 0%, rgba(0, 0, 0, 0) 100%) ;
+   background-repeat: no-repeat;
+   border-radius: 5px;
+   background-blend-mode: multiply;
+   margin-top: 100px;
+ }
+
+ .awlays-item{
+    padding: 60px;
+ }
+
+ .awalays-title{
+    font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #FFFFFF;
+padding-bottom: 20px;
+ }
+
+.awlays-keep .btn-primary {
+margin-top: 0;
+
+}
+
+/* footer styls   */
+.section{
+    background-color: #151414;
+    margin-top: 100px;
+}
+.section .section-item .footer{
+    display: flex;
+    justify-content: space-around;
+    padding: 130px 0;
+}
+.footer-title-right{
+    font-weight: 700;
+    font-size: 45px; 
+    color: #F8F8F8;
+}
+.footer-discription{
+    font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #FFFFFF;
+margin: 20px 0;
+}
+.contact{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+.icon a{
+    margin-right: 5px;
+}
+.input-title{
+    font-weight: 600;
+    font-size: 25px; 
+    color: #FFFFFF;
+    margin-bottom: 20px;  
+}
+form .inoute{
+    padding: 21px;
+    width: 100%;
+    font-size: 16px;
+}
+
