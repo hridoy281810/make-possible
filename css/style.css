@@ -4,6 +4,7 @@
 }
 .section-container {
     width: 1140px;
+    margin: auto;
 }
 a {
     text-decoration: none;
